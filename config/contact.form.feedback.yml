@@ -1,0 +1,14 @@
+uuid: 8f218152-823d-4b7b-a5a1-9e72be6d9b3e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - david@enjoycreativity.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
